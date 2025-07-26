@@ -69,5 +69,5 @@ The interactive Power BI dashboard answers **key product & business questions** 
 
 ## 📈 Sample Dashboard Preview
 
-![InsightForge Dashboard](https://github.com/SebasSala1996/insightforge-bi-case-study/blob/main/sbi_snapshot.png)  
+![InsightForge Dashboard](https://github.com/SebasSala1996/insightforge-bi-case-study/blob/main/Snapshots/sbi_snapshot.png)  
 
