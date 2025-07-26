@@ -53,7 +53,7 @@ Transforming messy source data into **clear, actionable insight** using advanced
 
 ## 📈 Sample Dashboard Preview
 
-![Executive Dashboard](screenshots/executive_dashboard.png)  
+![Executive Dashboard](https://github.com/SebasSala1996/insightforge-bi-case-study/blob/main/sbi_snapshot.png)  
 *Clear layout with KPIs, interactive filters, and strategic visuals.*
 
 > You can add your `.png` exports under a `screenshots/` folder and link them here.
