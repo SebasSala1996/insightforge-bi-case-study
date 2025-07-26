@@ -67,5 +67,5 @@ The interactive Power BI dashboard answers **key product & business questions** 
 | **Dashboard**       | Power BI |
 | **Version Control** | GitHub |
 
-[Dashboard Preview] (https://github.com/SebasSala1996/insightforge-bi-case-study/blob/main/sbi_snapshot.png)
+![Dashboard Preview] (https://github.com/SebasSala1996/insightforge-bi-case-study/blob/main/sbi_snapshot.png)
 
